@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋 I'm <span style="color:#4e9cff;">Nitish</span></h1>
 
-<!--
-**DECAF222/DECAF222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4E9CFF&width=550&lines=Beginner+Developer+%7C+Tech+Explorer;Learning+SwiftUI+%7C+React+Native+%7C+Flutter;I+love+building+clean+and+simple+apps+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I'm a **beginner developer** exploring multiple tech stacks  
+- 📱 Currently learning **SwiftUI**, **SwiftData**, React Native & Flutter  
+- ⚡ Building: **Financial App + Code Snippet Manager**
+- 🎯 Trying to improve logic, UI design & clean code  
+- 🍎 Obsessed with Apple-style smooth UI & animations  
+
+---
+
+## 🛠️ Tech Stack
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Frameworks / Tools**
+![SwiftUI](https://img.shields.io/badge/SwiftUI-235EF3?style=for-the-badge&logo=swift)
+![SwiftData](https://img.shields.io/badge/SwiftData-0048FF?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🧩 Fun Things About Me
+- 🎧 Code + **lofi music = perfect combo**  
+- 🤓 I learn fastest by building small apps & breaking things  
+- 🎨 Love clean UI, smooth animations & simple design  
+- 🔥 Beginner but improving **every single day**  
+
+---
+
+## 📫 Connect With Me
+<a href="#"><img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+---
+
+⭐ **Thanks for checking out my profile!**  
