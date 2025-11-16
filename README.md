@@ -1,14 +1,14 @@
 <h1 align="center">Hey there 👋 I'm <span style="color:#4e9cff;">Nitish</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4E9CFF&width=550&lines=Beginner+Developer+%7C+Tech+Explorer;Learning+SwiftUI+%7C+React+Native+%7C+Flutter;I+love+building+clean+and+simple+apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4E9CFF&width=550&lines=Beginner+Developer+%7C+Tech+Explorer;Learning+SwiftUI+%7C+Flutter;I+love+building+clean+and+simple+apps+🚀" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🌱 I'm a **beginner developer** exploring multiple tech stacks  
-- 📱 Currently learning **SwiftUI**, **SwiftData**, React Native & Flutter  
+- 📱 Currently learning **SwiftUI**, **SwiftData**
 - ⚡ Building: **Financial App + Code Snippet Manager**
 - 🎯 Trying to improve logic, UI design & clean code  
 - 🍎 Obsessed with Apple-style smooth UI & animations  
