@@ -26,7 +26,6 @@
 ![SwiftData](https://img.shields.io/badge/SwiftData-0048FF?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ---
 
@@ -39,7 +38,6 @@
 ---
 
 ## 🧩 Fun Things About Me
-- 🎧 Code + **lofi music = perfect combo**  
 - 🤓 I learn fastest by building small apps & breaking things  
 - 🎨 Love clean UI, smooth animations & simple design  
 - 🔥 Beginner but improving **every single day**  
@@ -47,8 +45,8 @@
 ---
 
 ## 📫 Connect With Me
-<a href="#"><img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ninja_1705_/"><img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nitish--m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
