@@ -1,7 +1,10 @@
 <h1 align="center">Hey there 👋 I'm <span style="color:#4e9cff;">Nitish</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=25&color=4E9CFF&width=550&lines=Beginner+Developer+%7C+Tech+Explorer;Learning+SwiftUI+%7C+Flutter;I+love+building+clean+and+simple+apps+🚀" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?size=25&color=4E9CFF&width=550&lines=Beginner+Developer+%7C+Tech+Explorer;Learning+SwiftUI+%7C+Flutter;I+love+building+clean+and+simple+apps+🚀" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
@@ -45,8 +48,16 @@ I learn best by **building small apps, breaking things, and fixing them** — th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish1705&theme=tokyonight&show_icons=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=nitish1705&theme=tokyonight" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nitish1705&theme=tokyonight&show_icons=true" 
+    height="170" 
+    alt="Nitish's GitHub stats" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=nitish1705&theme=tokyonight" 
+    height="170" 
+    alt="Nitish's GitHub streak" 
+  />
 </p>
 
 ---
@@ -61,8 +72,12 @@ I learn best by **building small apps, breaking things, and fixing them** — th
 
 ## 📫 Let’s Connect
 
-<a href="https://www.instagram.com/ninja_1705_/"><img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nitish--m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ninja_1705_/">
+  <img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/nitish--m/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
