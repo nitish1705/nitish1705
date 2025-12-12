@@ -45,8 +45,8 @@ I learn best by **building small apps, breaking things, and fixing them** — th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DECAF222&theme=tokyonight&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitish1705&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitish1705&theme=tokyonight&show_icons=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=nitish1705&theme=tokyonight" height="170" />
 </p>
 
 ---
