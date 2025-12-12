@@ -6,76 +6,27 @@
 
 ---
 
-## 🚀 About Me
+# 💫 About Me:
+🏳️‍🌈 I’m currently working on 💰 Financial App & 🍳 Cooking Diary  <br>👯 I’m looking to collaborate on small, fun SwiftUI projects  <br>🤝 I’m looking for help with improving my app architecture skills  <br>🌱 I’m currently learning SwiftUI, SwiftData, and Flutter  <br>💬 Ask me about app ideas, UI flows, and quick prototypes  <br>⚡ Fun fact: I learn fastest by breaking apps and rebuilding them stronger<br>
 
-I’m a **beginner developer** passionate about building clean, intuitive apps with smooth UI and delightful animations. Currently focused on:
 
-- 📱 Mastering **SwiftUI** & **SwiftData** for iOS  
-- 🛠 Learning **Flutter** to build cross‑platform apps  
-- 💡 Building small projects to sharpen logic, UI design, and clean code  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitish_1705_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish--m) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Certain_Reference381) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ninja_17_05) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MNITISH1705) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnitish1705@gmail.com) 
 
-My goal: create apps that feel **simple, fast, and polished** — like Apple’s own style.
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nitish1705&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nitish1705&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish1705&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nitish1705&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Tools
-![SwiftUI](https://img.shields.io/badge/SwiftUI-235EF3?style=for-the-badge&logo=swift)
-![SwiftData](https://img.shields.io/badge/SwiftData-0048FF?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nitish1705&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 What I’m Building
-
-- 💰 **Financial App** – A simple expense tracker with SwiftUI & SwiftData  
-- 💻 **Code Snippet Manager** – Organize and search code snippets (SwiftUI / Flutter)  
-
-I learn best by **building small apps, breaking things, and fixing them** — that’s where real growth happens.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nitish1705&theme=tokyonight&show_icons=true" 
-    height="170" 
-    alt="Nitish's GitHub stats" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=nitish1705&theme=tokyonight" 
-    height="170" 
-    alt="Nitish's GitHub streak" 
-  />
-</p>
-
----
-
-## 🧩 A Few Fun Things
-
-- 🤓 I learn fastest by building small apps & breaking things  
-- 🎨 Obsessed with **clean UI**, **smooth animations**, and **simple design**  
-- 🔥 Beginner, but improving **every single day**  
-
----
-
-## 📫 Let’s Connect
-
-<a href="https://www.instagram.com/ninja_1705_/">
-  <img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/nitish--m/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
----
-
-⭐ **Thanks for checking out my profile!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
