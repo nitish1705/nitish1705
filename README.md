@@ -7,7 +7,7 @@
 ---
 
 # 💫 About Me:
-🇮🇳 I’m currently working on 💰 Financial App & 🍳 Cooking Diary  <br>👯 I’m looking to collaborate on small, fun SwiftUI projects  <br>🤝 I’m looking for help with improving my app architecture skills  <br>🌱 I’m currently learning SwiftUI, SwiftData, and Flutter  <br>💬 Ask me about app ideas, UI flows, and quick prototypes  <br>⚡ Fun fact: I learn fastest by breaking apps and rebuilding them stronger<br>
+🇮🇳 I’m currently working on 💰 Financial App & 🍳 Cooking Diary  <br>🤜🤛 I’m looking to collaborate on small, fun SwiftUI projects  <br>🤝 I’m looking for help with improving my app architecture skills  <br>🌱 I’m currently learning SwiftUI, SwiftData, and Flutter  <br>💬 Ask me about app ideas, UI flows, and quick prototypes  <br>⚡ Fun fact: I learn fastest by breaking apps and rebuilding them stronger<br>
 
 
 ## 🌐 Socials:
